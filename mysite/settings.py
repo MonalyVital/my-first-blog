@@ -25,7 +25,7 @@ SECRET_KEY = '@l-e&oraus7xnmakxls%ruhtb60$n@7(8(m*8!(f&78tqxi6ph'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://monalyvital.pythonanywhere.com/','127.0.0.1']
 
 
 # Application definition
